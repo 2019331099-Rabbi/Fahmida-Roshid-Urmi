@@ -6,7 +6,6 @@ int main()
     Unary Operator
     sizeof()
     */
-
     printf("Integer = %d\n", sizeof(int));
     printf("Sort Integer = %d\n", sizeof(short int));
     printf("Long Long Integer = %d\n", sizeof(long long int));
