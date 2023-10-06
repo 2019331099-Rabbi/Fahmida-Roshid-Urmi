@@ -41,9 +41,9 @@ int main()
 
 
      // string input with space
-     char name_with_space[100];
-     printf("Name with spaces = ");
-     scanf("%[^\n]", name_with_space);
-     printf("Name = %s\n", name_with_space);
+//     char name_with_space[100];
+//     printf("Name with spaces = ");
+//     scanf("%[^\n]", name_with_space);
+//     printf("Name = %s\n", name_with_space);
 
 }
