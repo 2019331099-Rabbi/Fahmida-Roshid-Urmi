@@ -1,8 +1,21 @@
 #include <stdio.h>
 
+/**
+Uppercase to Lowercase
+----------------------
+A -> 65
+a -> 91
+The difference between 'A' and 'a' is +32. We have to add 32 with an uppercase letter
+to convert it to lowercase.
+
+Lowercase to Uppercase
+----------------------
+This is the reverse process. We have to subtract 32 from the Lowercase Letter
+to convert it to uppercase.
+*/
+
 int main()
 {
-
     char upper1 = 'B';
     char lower1 = upper1 + 32;
 
